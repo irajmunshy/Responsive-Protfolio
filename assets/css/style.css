@@ -199,4 +199,12 @@ footer p {
     .hero-content p {
         width: 70%;
     }
+    .about-item {
+        text-align: center;
+    }
+}
+@media (max-width: 771px) {
+    .about-item {
+        text-align: center;
+    }
 }
